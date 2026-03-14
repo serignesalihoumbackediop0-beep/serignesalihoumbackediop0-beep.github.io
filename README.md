@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body id="de">
+<header>
+<h1>Le Basket-ball 🏀</h1>
+<nav>
+<ul>
+<li><a href="index.html">Accueil</a></li>
+<li><a href="sport.html">Le sport</a></li>
+<li><a href="competitions.html">Compétitions</a></li>
+<li><a href="celebrites.html">Célébrités</a></li>
+<li><a href="inscription.html">Inscription</a></li>
+</ul>
+</nav>
+</header>
+<SEction>
+<h2>Bienvenue sur le site du Basket</h2>
+<p>
+Le basket-ball est un sport collectif très populaire dans le monde. 
+Il oppose deux équipes composées chacune de cinq joueurs. L’objectif 
+du jeu est de marquer des points en envoyant le ballon dans le panier 
+de l’équipe adverse, placé à une hauteur de 3,05 mètres.
+</p>
+<p>
+Ce sport a été inventé en 1891 par 
+:contentReference[oaicite:0]{index=0} 
+aux États-Unis. À l’origine, il cherchait une activité sportive qui 
+pouvait être pratiquée à l’intérieur pendant l’hiver. Depuis, le 
+basket-ball s’est développé et est devenu l’un des sports les plus 
+pratiqués et suivis au monde.
+</p>
+<p>
+Le basket-ball demande de nombreuses qualités physiques et techniques : 
+la vitesse, l’adresse, la coordination et l’esprit d’équipe. Les joueurs 
+doivent savoir dribbler, passer le ballon, tirer au panier et défendre 
+contre leurs adversaires.
+</p>
+<p>
+Aujourd’hui, des compétitions très célèbres existent dans le monde entier 
+comme la ligue professionnelle américaine 
+où jouent certains des meilleurs joueurs de la planète.
+</p>
+</section>
+</body>
+</html>
