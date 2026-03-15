@@ -57,15 +57,15 @@ transition:0.3s;
 }
 
 #ge{
-    background-image: url(".../logo.jpg");
+    background-image:url("logo.jpg");
 }
 #de{
-    background-image: url(".../oip.webp");
+    background-image: url("oip.webp");
 }
-#az{ background-image: url(".../ca.avif");
+#az{ background-image: url("ca.avif");
 }
 #ze{
-     background-image: url(".../ze.avif");
+     background-image: url("ze.avif");
 }
 .players{
 display:flex;
